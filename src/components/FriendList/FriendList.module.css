@@ -1,4 +1,4 @@
 .friendList {
-    display: block;
-    margin-left: 300px;
+    display: inline-block;
+    text-align: center;
 }
