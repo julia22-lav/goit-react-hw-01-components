@@ -6,7 +6,7 @@ const Statistics = ({ title, stats }) => {
   console.log(title, stats);
   return (
     <>
-      <h2>Task 2</h2>
+      <h2>Task 2: STATISTICS</h2>
       <section className={s.statistics}>
         {title && <h2 className={s.title}>Upload stats</h2>}
 

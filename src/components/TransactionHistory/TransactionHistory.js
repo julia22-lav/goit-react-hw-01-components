@@ -5,7 +5,7 @@ import s from './TransactionHistory.module.css';
 const TransactionHistory = ({ items }) => {
   return (
     <>
-      <h2>Task 4</h2>
+      <h2>Task 4: TRANSACTIONS</h2>
       <table className={s.transactionHistory}>
         <thead>
           <tr>

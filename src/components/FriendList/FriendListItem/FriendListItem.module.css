@@ -13,3 +13,27 @@
     border-radius: 50%;
     background-color: red;
 }
+
+.item {
+  display: flex;
+  align-items: center;
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  background-color:violet ;
+  }
+
+.avatar {
+    width: 100px; 
+    margin-left: 10px;
+    background-color:peachpuff;
+    padding: 10px;
+    border: 2px solid violet;
+}
+  
+  .name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 10px;
+  }

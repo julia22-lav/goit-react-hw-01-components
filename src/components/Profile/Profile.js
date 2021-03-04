@@ -8,7 +8,7 @@ const Profile = ({ name, tag, location, avatar, stats }) => {
   const { followers, views, likes } = stats;
   return (
     <>
-      <h2>Task 1</h2>
+      <h2>Task 1: SOCIAL PROFILE</h2>
       <div className={s.profile}>
         <div className={s.description}>
           <img src={avatar} alt={name} width="300" className={s.avatar} />
