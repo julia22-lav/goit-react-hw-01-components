@@ -1,23 +1,47 @@
-/* .profile {
+.profile {
+    padding: 40px;
+   width: 300px;
+    background-color:violet;
+    margin: 0 auto;
+  }
+  
+  .avatar {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+  }
 
-}
+  .name {
+    text-align: center;
+    color: purple;
+    font-size: 20px;
+    font-weight: 900;
+    }
 
-.description {
+  .tag {
+    color: purple;
+    font-size: 16px;
+    text-align: center;
+    }
 
-}
+  .location {
+    color:purple;
+    font-size: 16px;
+    }
+  
+  .stats {
+    margin-top: 40px;
+    color:purple;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .quantity {
+      font-weight: bold;
+  }
 
-.avatar {
-
-}
-
-.name {
-
-}
-
-.tag {
-
-}
-
-.location {
-
-} */
+  .label {
+      font-size: 17px;
+  }

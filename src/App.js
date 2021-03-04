@@ -16,7 +16,7 @@ const { name, tag, location, avatar, stats } = profileUsers;
 function App() {
   return (
     <div className="App">
-      <h1>Learn React</h1>
+      <h1>Homework 1</h1>
       <Profile
         name={name}
         tag={tag}

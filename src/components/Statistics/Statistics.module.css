@@ -1,0 +1,39 @@
+.statistics {
+    background-color:mistyrose;
+    width: 300px;
+    padding: 20px;
+    margin: 40px auto;
+    border-radius: 10px;
+  }
+
+.statList {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    padding: 0;
+}
+
+.title {
+    font-size: 16px;
+}
+
+.item {
+    width: 60px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    color:black;
+    background-color:lightcoral;
+    text-align: center;
+    outline: 2px solid black;
+}
+
+.label {
+    padding-bottom: 10px;
+  font-size: 12px;
+}
+
+.percentage {
+    font-size: 16px;
+    font-weight: bold;
+}
